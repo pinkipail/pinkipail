@@ -1,5 +1,8 @@
 ### Hi there 👋
-https://www.codewars.com/users/pinkipail/badges/small
+
+<a target="__blank" href="https://www.codewars.com/users/pinkipail">
+  <img src="https://www.codewars.com/users/pinkipail/badges/small" alt="CodeWars">
+</a>
 <!--
 **pinkipail/pinkipail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
